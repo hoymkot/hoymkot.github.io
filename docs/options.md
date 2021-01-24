@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Options Demonstration
 permalink: /options_demo/
 ---
